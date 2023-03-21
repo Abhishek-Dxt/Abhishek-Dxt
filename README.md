@@ -1,4 +1,4 @@
-# 🏄‍♂️ Abhishek Dixit
+# Abhishek Dixit
 
 **`Machine Learning, Software Development & all things Data`**
 
