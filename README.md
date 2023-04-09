@@ -8,6 +8,8 @@
 
 <img align="left" alt="Cloud" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/9850/9850908.png" />AWS - Azure Data Engineering Pipeline <a href="https://github.com/Abhishek-Dxt/AWS_S3_to_Azure_Datalake_to_Azure_SQLdb_Pipeline_Data_Engineering">here</a>
 
+<img align="left" alt="Spark" width="30px" style="padding-right:3px;" src="https://w7.pngwing.com/pngs/263/900/png-transparent-apache-spark-apache-zeppelin-apache-software-foundation-apache-hadoop-tutorial-spark-miscellaneous-text-orange-thumbnail.png" />PySpark Data Transformation - 2 ways (GCP Dataproc Cluster vs Google Colab) Project <a href="https://github.com/Abhishek-Dxt/Py_Spark_GCP_vs_Colab_Data_Cleaning">here</a>
+
 <img align="left" alt="NLP" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/2845/2845814.png" />NLP Project <a href="https://abhishek-dxt-nlp-data-roles-app-462v2a.streamlit.app/">here</a>
 
 <img align="left" alt="Tableau" width="30px" style="padding-right:3px;" src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" />Tableau Projects <a href="https://public.tableau.com/app/profile/abhishek.dixit2101">here</a>
