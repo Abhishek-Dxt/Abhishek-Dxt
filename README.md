@@ -5,7 +5,7 @@
 
 "The goal is to turn data into information, and information into insight." - Carly Fiorina
 
-<img align="left" alt="Website" width="30px" style="padding-right:3px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />ML - Deep Learning - Data Science projects <a href="https://abhishek-dxt.github.io/">here</a>
+<img align="left" alt="Website" width="30px" style="padding-right:3px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />ML - Deep Learning - Data Science projects <a href="https://abhishek-dxt.github.io/" target="_blank">here</a>
 
 <img align="left" alt="Cloud" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/9850/9850908.png" />AWS - Azure Data Engineering Pipeline <a href="https://github.com/Abhishek-Dxt/AWS_S3_to_Azure_Datalake_to_Azure_SQLdb_Pipeline_Data_Engineering">here</a>
 
