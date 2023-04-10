@@ -1,4 +1,4 @@
-# Abhishek Dixit  
+# Abhishek Dixit  <a href="https://www.linkedin.com/in/abhishek-dixit-a01" target="_blank" rel="noopener"><img align="right" alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 
 
 **`Machine Learning, Software Development & all things Data`**
@@ -17,4 +17,4 @@
 
 <img align="left" alt="Car Bazaar" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/744/744465.png" />Car Bazaar <a href="https://abhishek-dxt-car-bazaar-app-oiosn0.streamlit.app/">here</a>
 
-<img align="left" alt="Big Data" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/1349/1349217.png" />Big Data - GCP - Apache Hive Project <a href="https://github.com/Abhishek-Dxt/GCP_ApacheHive_BigData">here</a> <a href="https://www.linkedin.com/in/abhishek-dixit-a01" target="_blank" rel="noopener"><img align="right" alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<img align="left" alt="Big Data" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/1349/1349217.png" />Big Data - GCP - Apache Hive Project <a href="https://github.com/Abhishek-Dxt/GCP_ApacheHive_BigData">here</a> 
