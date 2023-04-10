@@ -1,4 +1,4 @@
-# Abhishek Dixit <a href="https://www.linkedin.com/in/abhishek-dixit-a01"><img align="right" alt="LinkedIn" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+# Abhishek Dixit <a href="https://www.linkedin.com/in/abhishek-dixit-a01"><img alt="LinkedIn" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 
 
 **`Machine Learning, Software Development & all things Data`**
