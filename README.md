@@ -1,4 +1,4 @@
-# Abhishek Dixit
+# Abhishek Dixit <a href="https://www.linkedin.com/in/abhishek-dixit-a01"><img src="https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg"></a>
 
 **`Machine Learning, Software Development & all things Data`**
 
