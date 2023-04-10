@@ -1,9 +1,5 @@
-<div style="display: flex; align-items: center;">
-  <h1>Abhishek Dixit</h1>
-  <a href="https://www.linkedin.com/in/abhishek-dixit-a01">
-    <img align="left" alt="LinkedIn" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
-  </a>
-</div>
+# Abhishek Dixit <a href="https://www.linkedin.com/in/abhishek-dixit-a01"><img align="left" alt="LinkedIn" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+
 
 **`Machine Learning, Software Development & all things Data`**
 
