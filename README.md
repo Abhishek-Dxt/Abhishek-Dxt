@@ -15,6 +15,8 @@
 
 <img align="left" alt="Tableau" width="30px" style="padding-right:3px;" src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" />Tableau Projects <a href="https://public.tableau.com/app/profile/abhishek.dixit2101">here</a>
 
+<img align="left" alt="Spark" width="30px" style="padding-right:3px;" src="https://w7.pngwing.com/pngs/263/900/png-transparent-apache-spark-apache-zeppelin-apache-software-foundation-apache-hadoop-tutorial-spark-miscellaneous-text-orange-thumbnail.png" />PySpark ETL Pipeline: Hive to Postgres on Local IDE (PyCharm)<a href="https://github.com/Abhishek-Dxt/PySpark_Hive_Postgres_ETL_Pipeline">here</a>
+
 <img align="left" alt="Car Bazaar" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/744/744465.png" />Car Bazaar <a href="https://abhishek-dxt-car-bazaar-app-oiosn0.streamlit.app/">here</a>
 
 <img align="left" alt="Big Data" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/1349/1349217.png" />Big Data - GCP - Apache Hive Project <a href="https://github.com/Abhishek-Dxt/GCP_ApacheHive_BigData">here</a> 
