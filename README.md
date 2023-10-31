@@ -11,6 +11,8 @@
 
 <img align="left" alt="Spark" width="30px" style="padding-right:3px;" src="https://w7.pngwing.com/pngs/263/900/png-transparent-apache-spark-apache-zeppelin-apache-software-foundation-apache-hadoop-tutorial-spark-miscellaneous-text-orange-thumbnail.png" />PySpark Data Transformation - 2 ways (GCP Dataproc Cluster vs Google Colab) Project <a href="https://github.com/Abhishek-Dxt/Py_Spark_GCP_vs_Colab_Data_Cleaning">here</a>
 
+<img align="left" alt="NLP" width="30px" style="padding-right:3px;" src="https://miro.medium.com/v2/resize:fit:700/1*qCXA0Ex9wlEMl8igYsOkhw.png" />Data Engineering project: Real-time streaming pipeline using Airflow and Kafka <a href="https://github.com/Abhishek-Dxt/ETL_Airflow_Kafka">here</a>
+
 <img align="left" alt="NLP" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/2845/2845814.png" />NLP Project <a href="https://abhishek-dxt-nlp-data-roles-app-462v2a.streamlit.app/">here</a>
 
 <img align="left" alt="Transformers" width="30px" style="padding-right:3px;" src="https://miro.medium.com/v2/resize:fit:904/1*GAQrbFIV-G5cT3-OchMEHg.png" />RoBERTa & Hugging Face Transformer for Sentiment Analysis & Grammar Correction <a href="https://github.com/Abhishek-Dxt/Transformers_Sentiment_Analysis_Grammar_Correction">here</a>
