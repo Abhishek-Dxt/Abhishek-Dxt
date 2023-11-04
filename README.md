@@ -24,3 +24,21 @@
 <img align="left" alt="Car Bazaar" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/744/744465.png" />Car Bazaar <a href="https://abhishek-dxt-car-bazaar-app-oiosn0.streamlit.app/">here</a>
 
 <img align="left" alt="Big Data" width="30px" style="padding-right:3px;" src="https://cdn-icons-png.flaticon.com/512/1349/1349217.png" />Big Data - GCP - Apache Hive Project <a href="https://github.com/Abhishek-Dxt/GCP_ApacheHive_BigData">here</a> 
+
+# Specializations & Certifications
+
+<a href="https://www.credly.com/badges/ee1467fc-01c3-4b84-a135-0f4ac0000614" title="Google Specialization">
+<img align="left" alt="Big Data" width="220px" style="padding-right:3px;" src="https://github.com/Abhishek-Dxt/Abhishek-Dxt/assets/71979171/caadcc2d-6f96-4f88-8ada-f009f9a21f04" />
+</a>
+
+<a href="https://www.credly.com/badges/e15a8642-0a20-4eb7-b2b3-674e2f8e6a6d" title="Google Specialization">
+<img align="left" alt="Big Data" width="220px" style="padding-right:3px;" src="https://github.com/Abhishek-Dxt/Abhishek-Dxt/assets/71979171/8073d06f-e486-4533-8ef3-4d07ff650ddd" />
+</a>
+
+<a href="https://www.credly.com/badges/f93a2813-879a-4ebf-8f32-7e361ce94236" title="IBM Certificate">
+<img align="left" alt="Big Data" width="200px" style="padding-right:3px;" src="https://github.com/Abhishek-Dxt/Abhishek-Dxt/assets/71979171/4ea1a598-7b57-4123-9aba-7bef370394c3" />
+</a>
+
+<a href="https://www.credly.com/badges/14711cfe-fb02-4b72-9bdb-0f47704bb6ea" title="IBM Certificate">
+<img align="left" alt="Big Data" width="200px" style="padding-right:3px;" src="https://github.com/Abhishek-Dxt/Abhishek-Dxt/assets/71979171/610abb8a-fa69-4374-b513-17ef804045d7" />
+</a>
