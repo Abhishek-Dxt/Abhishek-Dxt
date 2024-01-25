@@ -39,6 +39,6 @@
 
 [<img align="left" alt="GCP" width="150px" style="padding-right:3px;" src="Images/gcp.png">](https://coursera.org/share/b9cc822cf713c0b81aa1c60bb69784c1)
 
-[<img align="left" alt="IBM Specialization" width="140px" style="padding-right:3px;" src="Images/etl.png">](https://www.credly.com/badges/f93a2813-879a-4ebf-8f32-7e361ce94236)
+[<img align="left" alt="IBM Specialization" width="130px" style="padding-right:3px;" src="Images/etl.png">](https://www.credly.com/badges/f93a2813-879a-4ebf-8f32-7e361ce94236)
 
-[<img align="left" alt="IBM Specialization" width="140px" style="padding-right:3px;" src="Images/de.png">](https://www.credly.com/badges/14711cfe-fb02-4b72-9bdb-0f47704bb6ea)
+[<img align="left" alt="IBM Specialization" width="130px" style="padding-right:3px;" src="Images/de.png">](https://www.credly.com/badges/14711cfe-fb02-4b72-9bdb-0f47704bb6ea)
